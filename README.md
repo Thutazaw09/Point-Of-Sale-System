@@ -1,6 +1,4 @@
-# POINT OF SALE SYSTEM (GROUP II)
-
-
+# POINT OF SALE SYSTEM 
 ## **Guideline**
 
 Start by installing the `necessities` by running the following the following commands.    
