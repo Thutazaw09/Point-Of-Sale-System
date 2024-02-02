@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 # POINT OF SALE SYSTEM (GROUP II)
 
-
 #### Category Class 
-=======
-# POINT OF SALE SYSTEM 
-## **Guideline**
->>>>>>> 3345da54390c78b805b4bf1969044d6b699cbd8a
 
 1. **Overview**
    - The `Category` class is an integral part of a point of sale (POS) system, designed to handle categories of items or services. It ensures that each category is uniquely identified (`category_id`) and has a properly validated name (`category_name`). The class's design allows for efficient management and retrieval of category-specific information, which is crucial in organizing products or services in a POS system.
